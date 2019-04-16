@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Xnor.srcs/sources_1/imports/xnor-net-master/xnor_popcount.vhd" \
+"../../../../Xnor.srcs/sources_1/imports/xnor-net-master/test_xnor_popcount.vhd" \
+
+# Do not sort compile order
+nosort

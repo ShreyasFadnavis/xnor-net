@@ -1,0 +1,7 @@
+Running: xsim.dir/test_xnor_popcount_behav/xsimk.exe -simmode gui -wdb test_xnor_popcount_behav.wdb -simrunnum 0 -socket 50334
+Design successfully loaded
+Design Loading Memory Usage: 5020 KB (Peak: 5020 KB)
+Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 5624 KB (Peak: 5624 KB)
+Simulation CPU Usage: 62 ms

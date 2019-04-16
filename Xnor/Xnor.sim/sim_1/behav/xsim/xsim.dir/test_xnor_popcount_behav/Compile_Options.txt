@@ -1,0 +1,1 @@
+-wto "8db414b6306f4d3981553422de54bb3e" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "test_xnor_popcount_behav" "xil_defaultlib.test_xnor_popcount" -log "elaborate.log" 
